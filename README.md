@@ -67,3 +67,4 @@ If we examine the function handleEvebt in more detail, you can see that this fun
 
 Next, the account is converted to a string via toString() and assigned to record.account. The balance is type cast as Balance and converted to a big integer."# account-balance" 
 "# account-balance" 
+"# account-balance" 
